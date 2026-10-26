@@ -1,0 +1,16 @@
+ARTHUR CRUZ — VERSÃO PARA GITHUB PAGES
+
+1. Extraia este ZIP.
+2. Envie TODO o conteúdo extraído para a raiz do repositório.
+   index.html, style.css, brand.css, app.js e a pasta assets devem
+   ficar lado a lado. Mantenha também as pastas das galerias.
+3. No GitHub: Settings > Pages > Deploy from a branch.
+4. Selecione a branch usada (normalmente main) e /(root). Salve.
+5. Abra o endereço exibido pelo GitHub Pages após a publicação.
+
+Os caminhos são relativos: o site funciona tanto na raiz quanto
+em um endereço com o nome do repositório. As galerias também
+podem ser abertas pelo index.html extraído no computador.
+
+As fotos esportivas ainda não foram fornecidas; a categoria
+continua com a indicação em breve.
